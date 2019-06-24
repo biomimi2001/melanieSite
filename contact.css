@@ -1,3 +1,7 @@
+nav{
+  z-index: 99;
+}
+
 nav ul li a {
   color : black;
 }
